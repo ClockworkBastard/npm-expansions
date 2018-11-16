@@ -66,6 +66,7 @@ Narcissistic Preening Monarch
 Narcissistic Project Managers
 Narcissistic, Perfectly Modest
 Narcoleptic Pasta Manufacturer
+Narcoleptic Pedestrians Motivator
 Narcoleptic Pony Machine
 Narcoleptic Possum Mob
 Narcoleptic Programmers' Medicine
@@ -641,6 +642,7 @@ Nostalgic Pizza Manager
 Nostalgic Primordial Monster
 Nostradamus Predicting Maelstroms
 Nostradamus Prophecy Machine
+Nostril Penetration Masters
 Nosy Pinocchio Manners
 Not a Package Manager
 Not a Penny More
@@ -726,6 +728,7 @@ npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
+NPM Provoking Misunderstandings
 npm: package manager
 npm: possibly marvellous
 npm's personal messenger
